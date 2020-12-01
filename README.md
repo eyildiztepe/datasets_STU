@@ -1,3 +1,3 @@
-# datasets_STU
+# datasets_cbs
 
-These datasets were compiled from "The Carnegie Classification of Institutions of Higher Education" web site  http://carnegieclassifications.iu.edu (by Ted Miccery http://www.freewebs.com/tedstats/ , access date:Dec 2013). 
+These datasets were compiled from "The Carnegie Classification of Institutions of Higher Education" web site  http://carnegieclassifications.iu.edu (by Ted Miccery , access date:Dec 2013). 
